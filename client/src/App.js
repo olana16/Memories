@@ -5,7 +5,7 @@ const App = () => {
     <div>
       <h1>Welcome to the Memories App</h1>
     </div>
-  );
+  ); 
 };
 
 export default App; 
