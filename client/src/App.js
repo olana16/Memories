@@ -34,7 +34,7 @@ const App = () => {
             </Grid>
           </Grid>
         </Container>
-      </Grow>
+      </Grow> 
     </Container> 
   );
 };
